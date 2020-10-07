@@ -1,0 +1,30 @@
+Submillimetre and far-infrared spectral energy distributions of galaxies: the
+luminosity-temperature relation and consequences for photometric redshifts
+
+aka hot glowy space dust
+
+Paper Notes:
+
+
+Abstract
+
+	Properly measuring the spectral energy distributions of dusty, 
+high redshift galaxies is important because it allows us to measure the luminosity
+of said galaxies accurately. Knowing the luminosity has a lot of consequences like
+allowing us to know more about their power source and also determining their 
+redshift when there is spectroscopic information missing. The paper will look at
+four different ways to fit the parameters. With respect to our project's goal, the
+focus is only on light that exists within the infrared spectrum, touching briefly
+on sub-infrared and far-infrared merely to analyze the degeneracy of the model.
+
+
+Introduction
+
+	Galaxies to analyze:
+		- IRAS F08279+5255 (APM 08279+5255)
+			Most luminous galaxy apparent in the Universe or something?
+		- NGC 958
+		- ARP 220
+
+
+SED Descriptions
